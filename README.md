@@ -1,2 +1,2 @@
-# ejercicios
-primeros ejercicios
+# parcial
+ejercicio del parcial resuelto
